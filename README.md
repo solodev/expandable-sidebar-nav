@@ -3,7 +3,7 @@
 
 
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Create an Expandable Sidebar Navigation Links](https://www.solodev.com/blog/web-design/how-to-create-an-expandable-sidebar-navigation-links.stml) article.
+For detailed instruction's, view Solodev's [Create Unique Block Quotes to Showcase Inline Content](https://www.solodev.com/blog/web-design/how-to-create-an-expandable-sidebar-navigation-links.stml) article.
  
 ## Demo
   		  
@@ -59,9 +59,6 @@ The tutorial contains the following basic HTML markup.
 
 All required CSS is contained with expandable-sidebar-nav.css
 
-##JS
-
-All required JavaScript is contained within expandable-sidebar-nav.js
 
 
 ## External Resources
@@ -73,6 +70,5 @@ This tutorial includes the following third party resources.
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 ```
 
